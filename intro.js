@@ -1,6 +1,6 @@
 console.log("We Coders presents: Intro to JavaScript");
 
-// variables
+// variables data types
 var a;
 var b;
 a=10;
